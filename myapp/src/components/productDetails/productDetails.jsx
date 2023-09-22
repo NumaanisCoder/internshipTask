@@ -180,7 +180,7 @@ export default function ProductDetails() {
             </p>
             <p className="offer-TC">T&C</p>
           </div>
-          <div className="offers">  
+          <div className="offers">   
             <span class="material-symbols-outlined sell-icon">sell</span>
             <p className="offer-type">Bank offer</p>
             <p className="offer-description">
